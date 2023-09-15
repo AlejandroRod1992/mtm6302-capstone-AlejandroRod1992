@@ -1,5 +1,7 @@
-# mtm6302-capstone-your-github-username
+# CAPSTONE
 
 ALEJANDRO RODRIGUEZ
+
 41072438
-Pokedex
+
+Project: Astronomy Picture of The Day
