@@ -1,7 +1,7 @@
 
 html, body {
     background-image:url('Images/nasabg.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
     background-color: rgb(52, 50, 65);
@@ -115,6 +115,7 @@ footer {
 
     .photo {
         width: 100%;
+        margin-top: 20px;
     }
 
     .desc-text {
